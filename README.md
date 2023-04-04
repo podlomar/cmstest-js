@@ -1,2 +1,3 @@
 # cmstest-js
-Content for testing file based CMS systems
+
+Sample content for testing file based CMS systems
